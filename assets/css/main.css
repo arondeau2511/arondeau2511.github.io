@@ -3449,3 +3449,31 @@ input[type="button"]:disabled,
     padding: 0;
   }
 }
+
+
+#header {
+    background-color: #172B4D;
+}
+
+#main .major h2 {
+    color: #172B4D;
+}
+
+#main .button.primary {
+    background-color: #172B4D;
+    color: #FFFFFF;
+    box-shadow: inset 0 0 0 2px #172B4D;
+}
+
+#main .button.primary:hover {
+    background-color: #263F63;
+    color: #FFFFFF;
+    box-shadow: inset 0 0 0 2px #263F63;
+}
+
+#main .feature-icons li:before {
+    background-color: #172B4D;
+    box-shadow: inset 0 0 0 2px #172B4D;
+}
+
+
